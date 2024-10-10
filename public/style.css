@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.tarefas p{
+    font-size: 18px;
+    text-align: center;
+}
+
+.teste p {
+    color: rgb(5, 5, 67);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
