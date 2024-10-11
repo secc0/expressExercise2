@@ -16,7 +16,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 var tarefas = [
-  "faturamento pagglo",
 ];
 
 app.get("/", (req, res) => {
